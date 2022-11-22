@@ -1,9 +1,4 @@
-const { unlink } = require('fs');
+import { addNums } from './addNums.js';
 
-unlink('hello.txt', (err) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  console.log('File deleted');
-});
+const sum = addNums(2, 2);
+console.log(sum);

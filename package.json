@@ -14,7 +14,6 @@
   "keywords": [],
   "author": "JorgeJMarroquin <jorgejosuemarroquin@hotmail.com> (https://github.com/JorgeJMarroquin)",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/node-server-JorgeJMarroquin/issues"
   },
